@@ -8,9 +8,7 @@ namespace techmusings_api.Controllers
     {
         public string date;
         public string title;
-
-        [JsonProperty(PropertyName = "abstract")]
-        public string summary;
+        [JsonProperty(PropertyName = "abstract")] public string summary;
         public string picture;
         public string link;
     }
