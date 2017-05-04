@@ -1,0 +1,8 @@
+C:\Users\Johannes\Projects\techmusings-api\bin\Debug\netcoreapp1.1\techmusings-api.deps.json
+C:\Users\Johannes\Projects\techmusings-api\bin\Debug\netcoreapp1.1\techmusings-api.runtimeconfig.json
+C:\Users\Johannes\Projects\techmusings-api\bin\Debug\netcoreapp1.1\techmusings-api.runtimeconfig.dev.json
+C:\Users\Johannes\Projects\techmusings-api\bin\Debug\netcoreapp1.1\techmusings-api.dll
+C:\Users\Johannes\Projects\techmusings-api\bin\Debug\netcoreapp1.1\techmusings-api.pdb
+C:\Users\Johannes\Projects\techmusings-api\obj\Debug\netcoreapp1.1\techmusings-api.AssemblyInfo.cs
+C:\Users\Johannes\Projects\techmusings-api\obj\Debug\netcoreapp1.1\techmusings-api.dll
+C:\Users\Johannes\Projects\techmusings-api\obj\Debug\netcoreapp1.1\techmusings-api.pdb
